@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdepthai-resources.a "CMakeFiles/depthai-resources.dir/__cmrc_depthai-resources/lib.cpp.o" "CMakeFiles/depthai-resources.dir/__cmrc_depthai-resources/intermediate/depthai-device-fwp-8c3d6ac1c77b0bf7f9ea6fd4d962af37663d2fbd.tar.xz.cpp.o" "CMakeFiles/depthai-resources.dir/__cmrc_depthai-resources/intermediate/depthai-bootloader-fwp-0.0.24.tar.xz.cpp.o"
+/usr/bin/ranlib libdepthai-resources.a
